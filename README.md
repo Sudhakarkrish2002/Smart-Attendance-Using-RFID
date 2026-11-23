@@ -170,3 +170,5 @@ The IoT-Based Smart Attendance System using RFID, NodeMCU ESP8266 and KiwisIoT p
 By combining RFID identification, Wi-Fi connectivity and IoT monitoring, the project simplifies attendance recording and enables online attendance monitoring.
 
 This project demonstrates the practical application of IoT technology in educational institutions and smart campus environments.
+
+Github Repo Link : https://www.hackster.io/sudhakarnatarajan501/iot-based-smart-attendance-system-using-rfid-with-kiwisiot-f7b479
